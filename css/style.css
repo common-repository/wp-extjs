@@ -1,0 +1,11 @@
+.error_message {
+	background: #ff0033;
+	padding: 10px;
+	font-color: #ffffff;
+	margin: 5px 5px 5px 5px;
+	font-weight: bold;
+}
+.widefat thead th a {
+	color: #333 !important;
+	text-decoration: underline;
+};
